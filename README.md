@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # apaq-vue
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# apaqVue
+Client part for the apaq's spc system/ 钰邦spc系统的客户端（代码）
+>>>>>>> a0c1d59675846efc41631b82ddec05db5e819c3a
