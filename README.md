@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # apaq-vue
-Client part for the apaq's spc system/ 钰邦spc系统的客户端（代码）
+Client part for the apaq's spc system and the main code are in the path /src
+/ 钰邦spc系统的客户端（代码）
 主要代码在/src路径下
 
 ## Build Setup
